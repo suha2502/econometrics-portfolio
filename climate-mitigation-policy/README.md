@@ -27,7 +27,9 @@ econometrics-portfolio/
 
 ## Replication
 
-To instantly, seamlessly run the Python script and reproduce results without installing anything locally: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb)
+Run the full analysis instantly in Google Colab, no local setup required: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb).
+
+Alternatively, for local execution, see the instructions below.
 
 ## Citation
 
@@ -40,8 +42,7 @@ To instantly, seamlessly run the Python script and reproduce results without ins
   title = {The Environmental Impact of a Denim Tax},
   year = {2025},
   institution = {University of Toronto, Department of Economics},
-  url = {https://github.com/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_paper.pdf}
-}
+  url = {https://github.com/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_paper.pdf}}
 ```
 
 ## Contact
