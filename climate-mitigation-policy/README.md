@@ -8,7 +8,7 @@
 
 This research project investigates how a hypothetical Pigouvian tax on denim jeans in Canada might affect their production, water usage, and carbon emissions. Annual jeans-equivalent price and quantity estimates are constructed from time-series data on denim fabric imports obtained from the World Integrated Trade Solution. Published life-cycle environmental cost factors serve as inputs for economic models that estimate demand elasticity, simulate policy impacts, and evaluate the ecological benefits of internalizing the external costs of denim production. A first-differenced log-log demand model estimates a short-run own-price elasticity of Canadian denim jeans to be -1.57. Applying a 20% price shock—calibrated to life-cycle carbon and water costs—in 2023 yields a 24% decline in demand. This mitigation policy scenario projects savings of 0.5 tonnes of CO₂-eq and 61 million litres of water. Simplified methodological assumptions, necessitated by limited public market data and the partial-equilibrium analytical framework, remain a critical obstacle to affirming confidence in these first-order approximations. Policy implementation, feasibility, and associated trade-offs are evaluated rigorously.
 
-## Repository Structure
+## Final Repository Structure
 
 ```
 econometrics-portfolio/
