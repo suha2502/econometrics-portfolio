@@ -1,0 +1,52 @@
+Dataset: World Integrated Trade Statistics (WITS)
+Source: World Bank
+Title: Coloured Denim Imports to Canada (HS 521142)
+Links: 
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2000/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2001/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2002/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2003/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2004/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2005/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2006/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2007/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2008/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2009/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2010/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2011/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2012/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2013/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2014/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2015/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2016/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2018/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2019/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2020/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2021/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2022/tradeflow/Imports/partner/ALL/product/521142,
+    https://wits.worldbank.org/trade/comtrade/en/country/CAN/year/2023/tradeflow/Imports/partner/ALL/product/521142
+Description: 
+    This dataset contains information on coloured denim imports to Canada for the years 2000 to 2023, excluding 2017, 
+    specifically for the HS code 521142, which refers to coloured denim with less than 85% cotton and greater than 200g/m2.
+Columns:
+    - Reporter: The country reporting the trade data (in this case, Canada).
+    - TradeFlow: The direction of trade, which is "Import" in this dataset.
+    - ProductCode: The HS code for the product, 521142 for coloured denim.
+    - Product Description: A brief description of the product.
+    - Year: The year of the data.
+    - Partner: The trade partner country (e.g., China, Italy, United States).
+    - Trade Value 1000USD: The value of the imports in 1,000 USD.
+    - Quantity: The quantity of denim imported, in kilograms.
+    - Quantity Unit: The unit of measure, in this case, kilograms (Kg).
+
+Dataset: Statistics Canada
+Source: Statistics Canada
+Title: Consumer Price Index for Clothing and Footwear (2000–2024)
+Link: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
+Description:
+    This dataset provides the annual Consumer Price Index (CPI) for clothing and footwear in Canada from 2000 to 2024. 
+    The CPI is a measure that examines the weighted average of prices of a basket of consumer goods and services, with 
+    the clothing and footwear categories in focus.
+Columns:
+    - Year: The year for the corresponding CPI data.
+    - CPI Clothing Index: The value of the Consumer Price Index for clothing and footwear in that year.
