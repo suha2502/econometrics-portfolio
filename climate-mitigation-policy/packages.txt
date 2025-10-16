@@ -1,8 +1,6 @@
-matplotlib.pyplot
+matplotlib
 numpy
 openpyxl
 pandas
 seaborn
-statsmodels.api
-statsmodels.formula.api
-statsmodels.stats.api
+statsmodels
