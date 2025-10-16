@@ -27,7 +27,7 @@ econometrics-portfolio/
 
 ## Replication
 
-To instantly, seamlessly run the Python script and reproduce results without installing anything locally: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suhakazmi/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb).
+To instantly, seamlessly run the Python script and reproduce results without installing anything locally: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/suha2502/econometrics-portfolio/raw/main/climate-mitigation-policy/denim_tax_analysis.ipynb)
 
 ## Citation
 
