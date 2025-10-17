@@ -6,7 +6,7 @@
 
 ## Overview
 
-This research investigates how occupational time constraints influence reliance on processed foods and self-rated health in the United States. Household-level data from the 2016 Food Acquisition & Purchase Survey and individual-level data from the Medical Expenditure Panel Survey are integrated via regional aggregation to enable cross-dataset analysis. A standardized household stress index—constructed from perceived time and cost barriers, food insecurity, and recent financial shocks—serves as a proxy for temporal scarcity. Logistic regression specifications estimate how stress, employment characteristics, and demographic factors shape suboptimal dietary decisions. Time-intensive occupations are modestly associated with lower self-rated health. A 1 standard deviation increase in household stress corresponds to a 1.7 percentage point rise in processed-food dependence, suggesting that occupational time pressure may reduce household time budgets, elevate reliance on convenience foods, and serve as a structural channel by which economic inequality maps into health inequality. Potential endogeneity, occupational self-selection, and the inability to merge datasets at the individual-level temper the interpretation of these results.
+This research investigates how occupational time constraints influence reliance on processed foods and self-rated health in the United States. Household-level data on food behaviour and stress from the 2016 Food Acquisition & Purchase Survey and individual-level data on labour and health from the Medical Expenditure Panel Survey are integrated via regional aggregation to enable cross-correlation and geospatial visualization. A standardized household stress index—constructed from perceived time and cost barriers, food insecurity, and recent financial shocks—serves as a proxy for temporal scarcity. Logistic regression specifications estimate how stress, employment characteristics, and demographic factors shape suboptimal dietary decisions. Time-intensive occupations are modestly associated with lower self-rated health. A 1 standard deviation increase in household stress corresponds to a 1.7 percentage point rise in processed-food dependence, suggesting that occupational time pressure may reduce household time budgets, elevate reliance on convenience foods, and serve as a structural channel by which economic inequality maps into health inequality. Potential endogeneity, occupational self-selection, and the inability to merge datasets at the micro-level temper the interpretation of these results.
 
 ## Motivation
 
@@ -28,7 +28,7 @@ econometrics-portfolio/
 │  ├─ .gitignore
 │  └─ README.md
 ```
-
+```
 │  ├─ automation/
 │  │  ├─ validate_source_documentation.py
 │  │  ├─ upload_data.py
@@ -61,10 +61,11 @@ econometrics-portfolio/
 │  ├─ results/ 
 │  ├─ labour_time_nutrition_analysis.ipynb   ➔ full Python workflow embedded within a structured Jupyter Notebook
 │  ├─ labour_time_nutrition_paper.pdf        ➔ formal write-up
-  
+```
+
 ## Replication
 
-To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb).
+To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/labour-time-nutrition/labour_time_nutrition_analysis.ipynb).
 
 ## Citation
 
