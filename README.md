@@ -1,0 +1,1 @@
+Contained in this repository are several works showcasing my data analysis skills. I am endlessly grateful to my professors at the University of Toronto for giving me opportunities to throw some scholarly weight, albeit primitive, behind my intellectual curiosity for tackling complex, relevant real-world issues through analytical rigour. 
