@@ -1,0 +1,111 @@
+faps_fahnutrients.csv:
+    obtained: 2025-03-11
+    source: https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/50980/CSV%20data%20files.zip?v=47135
+    description: |
+        This file contains public-use data from the FoodAPS National Household Food Acquisition and Purchase Survey
+        for the year 2016, focusing on food nutrient information collected at the household level. It includes 
+        variables related to dietary intake such as cholesterol, alcohol, protein, fat, sugars, fiber, carbohydrates, 
+        and energy.
+
+faps_household_puf.csv:
+    obtained: 2025-03-11
+    source: https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/50980/CSV%20data%20files.zip?v=47135
+    description: |
+        This file contains public-use data from the FoodAPS National Household Food Acquisition and Purchase Survey
+        for the year 2016, focusing on household characteristics such as income, food security, access to food sources, 
+        and other socioeconomic factors.
+
+faps_individual_puf.csv:
+    obtained: 2025-03-11
+    source: https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/50980/CSV%20data%20files.zip?v=47135
+    description: |
+        This file contains public-use data from the FoodAPS National Household Food Acquisition and Purchase Survey
+        for the year 2016, focusing on variables such as age, employment status, education, race, and health status 
+        for individuals within each household.
+
+meps_ipums_extract.csv:
+    obtained: 2025-04-02
+    source: https://meps.ipums.org/meps/
+    description: |
+        This file contains public-use data for individuals from the Medical Expenditure Panel Survey for the year 2016. It
+        contains a sample of the following 25 variables extracted through Integrated Public Use Microdata Series (IPUMS): 
+            P YEAR Survey year
+            P DUID Dwelling unit ID
+            P PID Person number
+            P MEPSID MEPS unique identifier (IPUMS generated)
+            P SEX Sex
+            P RELATE Relationship to householder
+            P RACEA Main Racial Background (Pre-1997 Revised OMB Standards), self-reported or interviewer reported
+            P EDUC Educational attainment
+            P INCTOT Total personal income
+            P FTOTVAL Total family income
+            P HEALTH Health status
+            P BMIKID Body mass index of child
+            R MEPSIDRD MEPS unique identifier (IPUMS generated)
+            R RUSIZERD Reporting unit size, round record
+            R FAMSZERD Family size, round record
+            R REGMEPSRD Census region, round record
+            R AGERD Age, round record
+            R MOMPIDRD Person Identifier (PID) of mother
+            R POPPIDRD Person Identifier (PID) of father
+            R EMPSTATRD Employment status, round record
+            R HOURWRKRD Hours work per week at current main job, round record
+            R CLASSWK2RD Class of worker (private, non-profit, govt), round record
+            R INDCATRD Industry category (2002-forward), round record
+            R OCCCATRD Occupation category (2002-forward), round record
+            R EHIOFFRRD Offered health insurance at current main job, round record
+
+meps_ipums_codebook.txt:
+    obtained: 2025-04-02
+    source: https://meps.ipums.org/meps/
+    description: |
+        This file contains detailed descriptions of the 25 variables extracted through IPUMS. 
+
+cb_2018_us_region_500k.dbf:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        This is one of several component files that collectively define U.S. Census regional boundaries at a 
+        1:500,000 resolution. It supports spatial visualizations in this study by enabling region-level choropleth 
+        mapping of dietary, health, and occupational data across the contiguous United States.
+
+cb_2018_us_region_500k.prj:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        Contains projection information for the U.S. regional shapefile, enabling accurate geospatial alignment 
+        and rendering of Census regions in map-based visualizations.
+
+cb_2018_us_region_500k.shp:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        The main shapefile component used to draw U.S. Census regions in choropleth maps. This vector-based 
+        geometry file underpins regional mapping analyses used in this paper.
+
+cb_2018_us_region_500k.shp.ea.iso.xml:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        An ISO-compliant metadata file accompanying the shapefile, describing the dataset’s structure, 
+        spatial resolution, and intended usage for geospatial applications.
+
+cb_2018_us_region_500k.shp.iso.xml:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        Provides ISO-standard metadata describing the shapefile contents, projection system, and source origin. 
+        Useful for documenting geospatial file provenance and ensuring reproducibility.
+
+cb_2018_us_region_500k.shx:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        Index file accompanying the shapefile that enables efficient geospatial rendering and spatial queries. 
+        Required for loading the shapefile into most GIS and Python geospatial libraries.
+
+cb_2018_us_region_500k.cpg:
+    obtained: 2025-04-09
+    source: https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_region_500k.zip
+    description: |
+        Cartographic boundary file.
