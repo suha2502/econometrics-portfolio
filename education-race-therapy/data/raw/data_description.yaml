@@ -1,0 +1,24 @@
+NSDUH_2015.DTA:
+    obtained: 2025-02-10
+    source: https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2015&data_collection=1124
+    description: This is The U.S. National Surveys on Drug Use and Health (NSDUH) public-use data for 2015, saved as a STATA file.
+
+NSDUH_2016.DTA:
+    obtained: 2025-02-10
+    source: https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2016&data_collection=1135
+    description: This is The U.S. National Surveys on Drug Use and Health (NSDUH) public-use data for 2016, saved as a STATA file.
+
+NSDUH_2017.DTA:
+    obtained: 2025-02-10
+    source: https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2017&data_collection=1137
+    description: This is The U.S. National Surveys on Drug Use and Health (NSDUH) public-use data for 2017, saved as a STATA file.
+
+NSDUH_2018.DTA:
+    obtained: 2025-02-10
+    source: https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2018&data_collection=1150
+    description: This is The U.S. National Surveys on Drug Use and Health (NSDUH) public-use data for 2018, saved as a STATA file.
+
+NSDUH_2019.DTA:
+    obtained: 2025-02-10
+    source: https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2019&data_collection=1156
+    description: This is The U.S. National Surveys on Drug Use and Health (NSDUH) public-use data for 2019, saved as a STATA file.
