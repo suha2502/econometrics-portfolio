@@ -1,0 +1,14 @@
+geopandas
+jinja2
+matplotlib
+numpy
+openpyxl
+pandas
+patsy
+pyhere
+seaborn
+shapely
+fiona
+pyproj
+rtree
+statsmodels
