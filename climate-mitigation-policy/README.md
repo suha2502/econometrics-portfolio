@@ -24,7 +24,7 @@ econometrics-portfolio/
 │  ├─ results/ 
 │  ├─ denim_tax_analysis.ipynb   ➔ full Python workflow embedded within a structured Jupyter Notebook
 │  ├─ denim_tax_paper.pdf        ➔ formal write-up
-│  ├─ requirements.txt
+│  ├─ packages.txt
 │  ├─ .gitignore
 │  └─ README.md
 ```
