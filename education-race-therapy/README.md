@@ -12,6 +12,10 @@ This research investigates whether higher educational attainment mitigates racia
 
 This project was originally motivated by the question: does direct billing facilitate the uptake of mental health treatment among young adults? As a student under university health insurance, I struggled to be consistent with therapy due to limited direct-billing options—most therapists required payment up-front and reimbursements would take weeks to process. That lag often made continued care financially infeasible. Although I could not locate publicly available data to test that hypothesis, the experience reinforced my curiosity about structural barriers in healthcare. I then pivoted to explore whether education could be an equalizer by empowering individuals across racial stratums to learn about and access therapy. Empirically applying my interests in health economics and inequality helped inform my understanding of how knowledge and privilege translate into the capacity to seek help.
 
+## Replication
+
+To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/education-race-therapy/education_race_therapy_analysis.ipynb).
+
 ## Final Repository Structure
 
 ```
@@ -27,10 +31,6 @@ econometrics-portfolio/
 │  ├─ packages.txt
 │  └─ README.md
 ```
-
-## Replication
-
-To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/education-race-therapy/education_race_therapy_analysis.ipynb).
 
 ## Contact
 I would be honoured to receive any feedback, critiques, or questions! Please feel free to reach out. :)  
