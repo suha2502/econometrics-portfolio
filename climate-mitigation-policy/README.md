@@ -6,7 +6,11 @@
 
 ## Overview
 
-This research project investigates how a hypothetical Pigouvian tax on denim jeans in Canada might affect their production, water usage, and carbon emissions. Annual jeans-equivalent price and quantity estimates are constructed from time-series data on denim fabric imports obtained from the World Integrated Trade Solution. Published life-cycle environmental cost factors serve as inputs for economic models that estimate demand elasticity, simulate policy impacts, and evaluate the ecological benefits of internalizing the external costs of denim production. A first-differenced log-log demand model estimates a short-run own-price elasticity of Canadian denim jeans to be -1.57. Applying a 20% price shock—calibrated to life-cycle carbon and water costs—in 2023 yields a 24% decline in demand. This mitigation policy scenario projects savings of 0.5 tonnes of CO₂-eq and 61 million litres of water. Simplified methodological assumptions, necessitated by limited public market data and the partial-equilibrium analytical framework, remain a critical obstacle to affirming confidence in these first-order approximations. Policy implementation, feasibility, and associated trade-offs are evaluated rigorously.
+This research investigates how a hypothetical Pigouvian tax on Canadian denim jeans would affect their production, water usage, and carbon emissions. Time-series data on global denim fabric imports from the World Integrated Trade Solution are used to construct jeans-level price and quantity estimates. Published life-cycle environmental cost factors serve as inputs for counterfactual models projecting ecological benefits from internalizing the external costs of denim production. A first-differenced log-log demand model estimates a short-run own-price elasticity of -1.57. Applying a +20% price shock—calibrated to carbon and water costs—in 2023 predicts a 24% decline in demand from 2022, translating into savings of 0.5 tonnes CO₂-eq emissions and 61M litres of water. Simplifying methodological assumptions, necessitated by limited public market data and a partial-equilibrium framework, temper confidence in these first-order approximations. Policy implementation, feasibility, and associated trade-offs are rigorously evaluated.
+
+## Motivation
+
+This project was the culmination of a semester-long climate economics course, where I independently designed an original mitigation policy from the ground up. It offered a unique opportunity to marry my long-standing interests in fashion and environmental sustainability, exploring how economic policy levers might alleviate the tension between denim's cultural allure and its material reality as one of the planet's most resource-intensive textiles. I sought to quantify the effects of corrective pricing in this market, and to understand whether it could precipitate responsible redirection in an industry emblematic of waste. Given the advent of fast fashion and influencer culture, this study gauges how policy design can mitigate socially irresponsible consumption by connecting it with personal responsibility.
 
 ## Final Repository Structure
 
@@ -27,9 +31,7 @@ econometrics-portfolio/
 
 ## Replication
 
-Run the full analysis instantly in Google Colab, no local setup required: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb).
-
-Alternatively, for local execution, see the instructions below.
+To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/climate-mitigation-policy/denim_tax_analysis.ipynb).
 
 ## Citation
 
