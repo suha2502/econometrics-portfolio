@@ -1,0 +1,6 @@
+pandas
+statsmodels.formula.api
+numpy
+matplotlib.pyplot
+statsmodels.api
+seaborn
