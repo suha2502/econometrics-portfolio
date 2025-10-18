@@ -1,7 +1,7 @@
 # Investigating U.S. Beef Market Cartelization
 
 **Institution:** University of Toronto, Department of Economics  
-**Course:** ECO421: Special Topics in Economics - Competition Policy 
+**Course:** ECO421: Special Topics in Economics - Competition Policy  
 **Instructor:** Nadia Soboleva
 
 ## Overview
