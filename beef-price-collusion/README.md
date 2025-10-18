@@ -1,4 +1,4 @@
-# Investigating U.S. Beef Market Cartelization
+# Investigating Cartelization in U.S. Ground Beef Market
 
 **Institution:** University of Toronto, Department of Economics  
 **Course:** ECO421: Special Topics in Economics - Competition Policy  
