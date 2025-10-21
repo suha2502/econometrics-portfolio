@@ -6,11 +6,11 @@
 
 ## Overview
 
-This research investigates whether higher educational attainment mitigates racial disparities in mental health treatment uptake among young adults in the United States. Individual-level data from the National Survey on Drug Use and Health are used to estimate the independent and interactive effects of race and education on the likelihood of engaging in psychotherapy. Logistic regression models yield interpretable marginal effects that contextualize how socioeconomic and racial factors intersect in determining access to care. Results reveal a positive association between educational attainment and the narrowing of racial gaps in counselling adoption.
+-
 
 ## Motivation
 
-This project was originally motivated by the question: does direct billing facilitate the uptake of mental health treatment among young adults? As a student under university health insurance, I struggled to be consistent with therapy due to limited direct-billing options—most therapists required payment up-front and reimbursements would take weeks to process. That lag often made continued care financially infeasible. Although I could not locate publicly available data to test that hypothesis, the experience reinforced my curiosity about structural barriers in healthcare. I then pivoted to explore whether education could be an equalizer by empowering individuals across racial stratums to learn about and access therapy. Empirically applying my interests in health economics and inequality here informed a better understanding of how knowledge and privilege translate into the capacity to seek help.
+-
 
 ## Replication
 
