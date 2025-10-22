@@ -12,7 +12,7 @@ This research considers how a hypothetical Pigouvian tax on Canadian denim jeans
 
 This was the capstone of a semester-long course where I independently designed an original mitigation policy, from the ground up. It presented a terrific opportunity to meld my deep-rooted interests in fashion and sustainability within an economic framework, exploring policy levers to mollify the tension between denim's cultural allure and its material reality as one of the planet's top resource-intensive textiles. I sought to quantify the effects of corrective pricing in this market and discern whether it could precipitate responsible redirection in an industry emblematic of waste. With the advent of fast fashion and influencer culture, this study offers one take on how policy design might quell socially irresponsible consumption by tethering it directly to personal responsibility.
 
-## Final Repository Structure
+## Repository Structure
 
 ```
 econometrics-portfolio/
