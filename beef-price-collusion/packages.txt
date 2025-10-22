@@ -1,6 +1,5 @@
 pandas
-statsmodels.formula.api
+statsmodels
 numpy
-matplotlib.pyplot
-statsmodels.api
+matplotlib
 seaborn
