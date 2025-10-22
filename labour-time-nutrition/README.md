@@ -1,8 +1,8 @@
 # Can Occupational Time Pressure Explain Processed Food Reliance and Perceived Health Among Households?
 
 **Institution:** University of Toronto, Department of Economics  
-**Course:** ECO483: Health & Economic Inequality
-**Instructor:** Michael Stepner
+**Course:** ECO483: Health & Economic Inequality  
+**Instructor:** Michael Stepner  
 **Grade:** 86%
 
 ## Overview
