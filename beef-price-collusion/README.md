@@ -14,7 +14,7 @@
 
 ## Replication
 
-To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/beef-price-collusion/beef_price_collusion_analysis.ipynb).
+To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/beef-price-collusion/beef_price_collusion_analysis.py).
 
 ## Final Repository Structure
 
