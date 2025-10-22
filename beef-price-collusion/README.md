@@ -26,7 +26,6 @@ econometrics-portfolio/
 │  │  ├─ raw/ 
 │  │  └─ derived/ 
 │  ├─ results/ 
-│  ├─ beef_price_collusion_analysis.py      ➔ full Python script
 │  ├─ beef_price_collusion_analysis.ipynb   ➔ Jupyter notebook importing & running Python script
 │  ├─ beef_price_collusion_paper.pdf        ➔ write-up
 │  ├─ packages.txt
