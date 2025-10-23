@@ -1,0 +1,3 @@
+Scenario,Shock (%),Baseline Quantity (2022),Predicted Quantity (2023),Change in Quantity (%),Predicted Emissions (2023),Predicted Water (2023)
+20% Pigouvian Tax,20.0,64443,48417,-24.87,1617127.8,183064677.0
+25% Tariff,25.0,64443,45414,-29.53,1516827.6,171710334.0
