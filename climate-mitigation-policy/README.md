@@ -22,7 +22,7 @@ econometrics-portfolio/
 │  │  │  └─ data_description.md
 │  │  └─ derived/
 │  ├─ results/
-│  ├─ denim_tax_analysis.ipynb   ➔ full Python workflow embedded within a structured Jupyter Notebook
+│  ├─ denim_tax_analysis.ipynb   ➔ full Python workflow in Jupyter Notebook
 │  ├─ denim_tax_paper.pdf        ➔ formal write-up
 │  ├─ packages.txt
 │  ├─ .gitignore
@@ -31,7 +31,7 @@ econometrics-portfolio/
 
 ## Replication
 
-To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/01-climate-mitigation-denim/denim_tax_analysis.ipynb).
+To instantly run the full analysis, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/01-climate-mitigation-denim/denim_tax_analysis.ipynb).
 
 ## Citation
 
