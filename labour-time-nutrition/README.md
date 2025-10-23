@@ -23,7 +23,7 @@ econometrics-portfolio/
 │  │  │  └─ data_description.yaml
 │  │  └─ derived/ 
 │  ├─ results/ 
-│  ├─ labour_time_nutrition_analysis.ipynb   ➔ full Python workflow embedded within a structured Jupyter Notebook
+│  ├─ labour_time_nutrition_analysis.ipynb   ➔ full Python workflow in Jupyter Notebook
 │  ├─ labour_time_nutrition_paper.pdf        ➔ formal write-up
 │  ├─ packages.txt
 │  └─ README.md
@@ -31,4 +31,4 @@ econometrics-portfolio/
 
 ## Replication
 
-To run the full analysis instantly, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/02-labour-time-nutrition/labour_time_nutrition_analysis.ipynb).
+To instantly run the full analysis, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/02-labour-time-nutrition/labour_time_nutrition_analysis.ipynb).
