@@ -26,7 +26,7 @@ econometrics-portfolio/
 │  │  │  └─ data_description.yaml
 │  │  └─ derived/ 
 │  ├─ results/ 
-│  ├─ beef_collusion_analysis.ipynb   ➔ full Python workflow embedded within a structured Jupyter Notebook
+│  ├─ beef_collusion_analysis.ipynb   ➔ full Python workflow in Jupyter Notebook
 │  ├─ beef_collusion_paper.pdf        ➔ write-up
 │  ├─ packages.txt
 │  └─ README.md
