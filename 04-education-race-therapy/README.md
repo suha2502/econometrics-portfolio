@@ -16,6 +16,7 @@ This project began with a practical question inspired by firsthand experience na
 ## Replication
 
 To instantly run the full analysis, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/04-education-race-therapy/education_race_therapy_analysis.ipynb).
+
 (This notebook is temporarily non-functional due to issues loading the raw data files. I will update it once resolved!)
 
 ## Repository Structure
