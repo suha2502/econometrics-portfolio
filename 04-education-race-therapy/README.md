@@ -1,4 +1,4 @@
-# Does the Attainment of Higher Education Mitigate Racial Disparities in the Uptake of Mental Health Treatment Among Young Adults?
+# Does the Attainment of Higher Education Mitigate Racial Disparities in the Uptake of Mental Health Treatment among Young Adults?
 
 **Institution:** University of Toronto, Department of Economics  
 **Course:** ECO483: Health & Economic Inequality  
@@ -7,7 +7,7 @@
 
 ## Overview
 
-This research examines whether higher educational attainment narrows racial gaps in counselling uptake among young adults in the United States. Individual-level data from the National Survey on Drug Use and Health are used to estimate the independent and interactive effects of education and race on the likelihood of engaging in psychotherapy. Logistic regression models yield interpretable marginal effects that contextualize how socioeconomic and racial factors intersect to determine access to care, with results supporting the initial hypothesis.
+This research examines whether higher educational attainment narrows racial gaps in counselling uptake among young adults in the United States. Individual-level data from the National Survey on Drug Use and Health (NSDUH) are used to estimate the independent and interactive effects of education and race on the likelihood of engaging in psychotherapy. Logistic regression models yield interpretable marginal effects that contextualize how socioeconomic and racial factors intersect to determine access to care, with results in support of the initial hypothesis.
 
 ## Motivation
 
@@ -17,7 +17,7 @@ This project began with a practical question inspired by firsthand experience na
 
 To instantly run the full analysis, without any local setup: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suha2502/econometrics-portfolio/blob/main/04-education-race-therapy/education_race_therapy_analysis.ipynb).
 
-(This notebook is temporarily non-functional due to issues loading the raw data files. I will update it once resolved!)
+(This notebook is temporarily non-functional due to issues loading the raw data files. Will update once resolved!)
 
 ## Repository Structure
 
