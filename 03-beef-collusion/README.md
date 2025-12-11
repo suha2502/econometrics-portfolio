@@ -2,8 +2,8 @@
 
 **Institution:** University of Toronto, Department of Economics  
 **Course:** ECO421: Special Topics in Economics - Competition Policy  
-**Instructor:** Nadia Soboleva
-**Grade:** 92%
+**Instructor:** Nadia Soboleva  
+**Grade:** 92%  
 
 ## Overview
 
