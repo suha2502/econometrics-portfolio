@@ -1,4 +1,4 @@
-# Can Occupational Time Pressure Explain Processed Food Reliance and Perceived Health Among Households?
+# Can Occupational Time Pressure Explain Processed Food Reliance and Perceived Health among Households?
 
 **Institution:** University of Toronto, Department of Economics  
 **Course:** ECO483: Health & Economic Inequality  
