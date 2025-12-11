@@ -11,7 +11,7 @@ This research evaluates whether occupational time constraints influence reliance
 
 ## Motivation
 
-Inspired by childhood observations of somewhat antithetical food habits among working families—many friends with parents in demanding professions, such as doctors, relied heavily on unhealthy convenience meals—I designed an empirical study investigating whether occupational time pressure constrains households’ ability to prepare fresh meals, thereby nudging them towards processed alternatives. This project allowed me to draw on labour and behavioural economics whilst synthesising my interests in health and inequality to address a policy-relevant question. Quantifying the role of time pressure in nutritional choices could inform policy interventions that alleviate the health tolls imposed by contemporary labour demands and, ultimately, empower equitable access to healthy living.
+Inspired by childhood observations of somewhat antithetical food habits among working families—many friends with parents in demanding professions, such as doctors, relied heavily on unhealthy convenience meals—I designed an empirical study investigating whether occupational time pressure constrains households’ ability to prepare fresh meals, thereby nudging them towards processed alternatives. This project allowed me to draw on facets of labour and behavioural economics whilst synthesising my interests in health and inequality to address a policy-relevant question. Quantifying the role of time pressure in nutritional choices could inform policy interventions that alleviate the health tolls imposed by contemporary labour demands and, ultimately, empower equitable access to healthy living.
 
 ## Repository Structure
 
